@@ -148,3 +148,4 @@ $RECYCLE.BIN/
 .idea/modules.xml
 .idea/vcs.xml
 
+/target/classes/META-INF/mooc.kotlin_module
