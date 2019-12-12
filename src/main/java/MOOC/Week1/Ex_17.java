@@ -1,4 +1,4 @@
-package MOOC;
+package MOOC.Week1;
 
 import java.util.Scanner;
 

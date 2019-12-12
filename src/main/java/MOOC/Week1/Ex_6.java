@@ -1,4 +1,4 @@
-package MOOC;
+package MOOC.Week1;
 
 public class Ex_6 {
     public static void main(String[] args) {
