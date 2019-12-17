@@ -149,3 +149,5 @@ $RECYCLE.BIN/
 .idea/vcs.xml
 
 /target/classes/META-INF/mooc.kotlin_module
+
+/src/main/java/MOOC/bonuses
